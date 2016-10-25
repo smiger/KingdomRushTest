@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Bank/BankPassword.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{770,76},{164,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,39}</string>
+			</dict>
+			<key>Bank/btn_cunkuang_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{258,0},{128,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,123}</string>
+			</dict>
+			<key>Bank/btn_cunkuang_select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{386,0},{128,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,123}</string>
+			</dict>
+			<key>Bank/btn_qukuang_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{129,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{129,123}</string>
+			</dict>
+			<key>Bank/btn_qukuang_select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{129,0},{129,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{129,123}</string>
+			</dict>
+			<key>Bank/save.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{934,76},{80,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,39}</string>
+			</dict>
+			<key>Bank/take.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{770,115},{166,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{166,36}</string>
+			</dict>
+			<key>Bank/TransferID.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{770,39},{180,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,37}</string>
+			</dict>
+			<key>Bank/TransferScore.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{770,0},{206,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{206,39}</string>
+			</dict>
+			<key>Bank/btn_zengsong_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{514,0},{128,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,123}</string>
+			</dict>
+			<key>Bank/btn_zengsong_select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{642,0},{128,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,123}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>BankRes.png</string>
+			<key>realTextureFileName</key>
+			<string>BankRes.png</string>
+			<key>size</key>
+			<string>{1014,151}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1014</integer>
+			<key>height</key>
+			<integer>151</integer>
+		</dict>
+	</dict>
+</plist>
