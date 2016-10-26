@@ -1,0 +1,21 @@
+<Solution>
+  <PropertyGroup Name="MyDemo" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="GamePlay" />
+        <Folder Name="MainMenu">
+          <Project Name="MainMenu.csd" Type="Layer" />
+          <Image Name="logo.png" />
+          <Image Name="mainmenu_bg.png" />
+          <Image Name="menu_startchain_0001.png" />
+          <Image Name="menu_startchain_0002.png" />
+          <Image Name="options_overlay_buttons_0001.png" />
+          <Image Name="options_overlay_buttons_0002.png" />
+          <Image Name="options_overlay_buttons_0003.png" />
+          <Image Name="options_overlay_buttons_0004.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
